@@ -35,7 +35,7 @@
    
 
 2. Remote Machine:
-  - Enable automatic login
+  - Enable automatic login (optional)
     - Open the terminal and run:
       ``` bash
       sudo nano /etc/gdm3/custom.conf
